@@ -1,0 +1,11 @@
+Optimización de Algoritmos Clásicos
+
+En la historia de la computación, antes de que se adoptaran ampliamente los métodos de "divide y vencerás", los enfoques más comunes eran de naturaleza iterativa o de fuerza bruta, que intentaban resolver los problemas directamente, sin dividirlos en partes más pequeñas. 
+
+Mejora en el Rendimiento y Eficiencia
+
+El principal beneficio del paradigma "divide y vencerás" frente a otros enfoques es su capacidad para reducir la complejidad de los algoritmos, lo que resulta en mejoras drásticas en términos de rendimiento
+
+Eficiencia en Algoritmos Geométricos
+
+Algoritmos como el algoritmo de convex hull o closest pair of points han mejorado sustancialmente gracias a "divide y vencerás". Estos algoritmos, que se aplican en gráficos computacionales y visión artificial, solucionan problemas geométricos dividiendo el espacio en subregiones y combinando las soluciones parciales, lo que permite tratar grandes volúmenes de datos espaciales con gran eficiencia.s
